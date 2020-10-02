@@ -2,4 +2,4 @@
 
 A new Flutter application.
 
-<iframe src="https://giphy.com/embed/B5uExYFF3XDFRPly89" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/whatsapp-interface-B5uExYFF3XDFRPly89">via GIPHY</a></p>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:177.78%;position:relative;"><iframe width="360" height="640" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4h2z75"></iframe></div><p><a href="https://imgflip.com/gif/4h2z75">via Imgflip</a></p></div>
